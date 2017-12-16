@@ -4,3 +4,5 @@ while nama != "Panji Ramadhan":
 	print("Nama Saya",nama)
 	if nama=="Panji Ramadhan":
 		print("Hello Boskuh")
+		
+#1234
